@@ -1,0 +1,14 @@
+th{
+    background-color: rosybrown;
+    color:white;
+}
+td{
+    background-color: yellowgreen;
+    color:white;
+}
+
+tfoot tr td{
+    background: blue;
+    color:white;
+}
+
